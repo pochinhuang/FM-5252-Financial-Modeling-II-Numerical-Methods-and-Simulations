@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FM5252_HW5_BrianHuang/1.0.0": {
+        "runtime": {
+          "FM5252_HW5_BrianHuang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FM5252_HW5_BrianHuang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
