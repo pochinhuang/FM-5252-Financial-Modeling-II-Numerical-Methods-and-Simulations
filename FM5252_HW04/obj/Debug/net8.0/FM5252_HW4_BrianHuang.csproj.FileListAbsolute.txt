@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\bin\Debug\net8.0\FM5252_HW4_BrianHuang.exe
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\bin\Debug\net8.0\FM5252_HW4_BrianHuang.deps.json
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\bin\Debug\net8.0\FM5252_HW4_BrianHuang.runtimeconfig.json
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\bin\Debug\net8.0\FM5252_HW4_BrianHuang.dll
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\bin\Debug\net8.0\FM5252_HW4_BrianHuang.pdb
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.AssemblyInfo.cs
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.dll
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\refint\FM5252_HW4_BrianHuang.dll
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.pdb
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\FM5252_HW4_BrianHuang.genruntimeconfig.cache
+C:\Users\user\Desktop\UMN\FM2024 Spring 2024\FM5252 Financial Modeling II Numerical Methods and Simulations\HW04\FM5252_HW4_BrianHuang\obj\Debug\net8.0\ref\FM5252_HW4_BrianHuang.dll
